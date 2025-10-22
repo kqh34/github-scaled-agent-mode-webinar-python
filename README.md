@@ -88,14 +88,6 @@ To showcase extended capabilities:
 ## 📚 Documentation
 
 - [Detailed Architecture](./docs/architecture.md)
-- [Complete Demo Script](./docs/demo-script.md)
-
-## 🎓 Pro Tips for Solution Engineers
-
-- Practice the demos before customer presentations
-- Remember Copilot is non-deterministic - be ready to adapt
-- Mix and match demo scenarios based on your audience
-- Keep your GitHub PAT handy for MCP demos
 
 ---
 
