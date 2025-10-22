@@ -3,8 +3,8 @@
 ## GitHub Repo Information
 
 This repo is hosted in GitHub:
-- owner: octodemo
-- repo: copilot_agent_mode-special-octo-palm-tree
+- owner: kqh34
+- repo: github-scaled-agent-mode-webinar-python
 
 ## Architecture
 
